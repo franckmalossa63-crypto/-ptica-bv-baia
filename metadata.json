@@ -1,0 +1,7 @@
+{
+  "name": "BV BAIA Óptica - Excellence in Vision",
+  "description": "Premium optical app for Angola featuring virtual try-on, appointment booking, inventory management, and integrated payments via Multicaixa Express & VISA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
